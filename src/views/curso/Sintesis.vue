@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La unidad 1: Recolección y análisis de requisitos, establece los principios fundamentales para identificar, documentar y organizar las necesidades del usuario en el desarrollo de software. Esta unidad proporciona las bases teóricas y prácticas que permitirán al estudiante dominar técnicas de recopilación, priorización y análisis de requisitos, utilizando herramientas como entrevistas, encuestas, talleres, diagramas de casos de uso, historias de usuario y matrices de trazabilidad. Este enfoque integral asegura que los futuros desarrolladores comprendan a profundidad el proceso de captura de requisitos, fortaleciendo su capacidad para construir soluciones efectivas, eficientes y alineadas con las expectativas del cliente.
 
       .row.justify-content-center
         .col-lg-12.mb-5
