@@ -370,7 +370,7 @@ export default {
   data() {
     return {
       cuestionario: {
-        tema: 'Herramientas colaborativas para la construcción de paz',
+        tema: 'ANÁLISIS Y DISEÑO DE SOFTWARE',
         titulo: 'Ponte a prueba',
         introduccion:
           'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
@@ -379,28 +379,28 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál de las siguientes es una técnica comúnmente utilizada para la recopilación de requisitos?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Análisis de costo-beneficio',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto: 'Entrevistas',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Programación extrema',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Revisión de código',
                 esCorrecta: false,
               },
             ],
@@ -410,28 +410,31 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Qué es la priorización de requisitos en el desarrollo de software?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'El proceso de eliminar requisitos innecesarios.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto:
+                  'El proceso de determinar la importancia relativa de los requisitos.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto:
+                  'El proceso de clasificar los requisitos según su dificultad de implementación.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto:
+                  'El proceso de crear nuevos requisitos basados en las necesidades del cliente.',
                 esCorrecta: false,
               },
             ],
@@ -441,28 +444,28 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Qué herramienta de análisis se utiliza comúnmente para visualizar los procesos de negocio?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Diagrama de flujo',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'Diagrama de Gantt',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Diagrama de clases',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Diagrama de estado',
                 esCorrecta: false,
               },
             ],
@@ -471,28 +474,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Cuál de las siguientes es una técnica útil para la elicitar requisitos en proyectos ágiles?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Análisis estático de código',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto: 'Historias de usuario',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Revisión de documentos de requisitos previos',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Modelado de datos',
                 esCorrecta: false,
               },
             ],
@@ -502,28 +506,28 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál de las siguientes opciones NO es una herramienta comúnmente utilizada en el análisis de requisitos?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto: 'Análisis FODA',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'Matriz de trazabilidad de requisitos',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Diagramas de casos de uso',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Diagrama de flujo de datos',
                 esCorrecta: false,
               },
             ],
