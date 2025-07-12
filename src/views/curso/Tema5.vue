@@ -137,7 +137,7 @@
             .custom-image-card-2.h-100
               img.custom-image-card__image(src="@/assets/curso/tema5/13.png" alt="")
               .custom-image-card__text.p-4
-                p.mb-0 Contribuye al diseño modular, dado que los casos de uso pueden orientar la creación de componentes de software independientes y reutilizables.
+                p.mb-0 Contribuye al diseño modular, dado que los casos de uso pueden orientar la creación de componentes de <em>Software</em> independientes y reutilizables.
 
 
     #t_5_1.titulo-segundo(data-aos="flip-up")
@@ -150,7 +150,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.order-2.text-white
             h2.mb-4(data-aos="flip-up") Elementos de un caso de uso
-            p.mb-4(data-aos="fade-right") En el PDF <b>Elementos de un caso de uso</b>, se describen las partes fundamentales que estructuran un caso de uso completo, desde la identificación de los actores y el flujo de eventos, hasta las precondiciones, excepciones y relaciones entre funcionalidades. Este conocimiento permite representar con claridad los requisitos funcionales del sistema, facilitando la comunicación entre analistas, diseñadores y desarrolladores durante el proceso de análisis y diseño de software.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Elementos de un caso de uso</b>, se describen las partes fundamentales que estructuran un caso de uso completo, desde la identificación de los actores y el flujo de eventos, hasta las precondiciones, excepciones y relaciones entre funcionalidades. Este conocimiento permite representar con claridad los requisitos funcionales del sistema, facilitando la comunicación entre analistas, diseñadores y desarrolladores durante el proceso de análisis y diseño de <em>Software</em>.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -232,7 +232,7 @@
               img(src="@/assets/curso/tema5/18.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-1.p-4.mb-3(data-aos="fade-left")
-              p.mb-0 La representación gráfica de casos de uso es una técnica que permite visualizar, de manera estructurada, la relación entre los actores y las funcionalidades principales de un sistema. Esta representación se lleva a cabo mediante diagramas de casos de uso, los cuales utilizan una notación estándar definida por UML (Unified Modeling Language) para facilitar la comprensión entre todos los involucrados en un proyecto (Jiménez de Parga, 2014).
+              p.mb-0 La representación gráfica de casos de uso es una técnica que permite visualizar, de manera estructurada, la relación entre los actores y las funcionalidades principales de un sistema. Esta representación se lleva a cabo mediante diagramas de casos de uso, los cuales utilizan una notación estándar definida por UML (<em>Unified Modeling Language</em>) para facilitar la comprensión entre todos los involucrados en un proyecto (Jiménez de Parga, 2014).
             p(data-aos="fade-left") Un diagrama de casos de uso se compone de varios elementos esenciales:
         
         div.row.justify-content-center.align-items-stretch

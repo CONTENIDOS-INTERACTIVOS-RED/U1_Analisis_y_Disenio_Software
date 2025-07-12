@@ -39,7 +39,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Talleres de trabajo (workshops)',
+            titulo: 'Talleres de trabajo (<em>workshops</em>)',
             hash: 't_1_4',
           },
           {
@@ -51,7 +51,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Brainstorming y Focus Groups',
+            titulo: '<em>Brainstorming</em> y <em>Focus Groups</em>',
             hash: 't_1_6',
           },
         ],
@@ -347,28 +347,28 @@ export default {
     },
     {
       referencia:
-        'Genero Bocco, M. Cruz Lemus, J. A. & Piattini Velthuis, M. G. (2014). Métodos de investigación en ingeniería del software: ( ed.). RA-MA Editorial.  ',
+        'Genero Bocco, M. Cruz Lemus, J. A. & Piattini Velthuis, M. G. (2014). Métodos de investigación en ingeniería del <em>Software</em>: ( ed.). RA-MA Editorial.  ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/106450',
     },
     {
       referencia:
-        'Echeverri, J. Aristizábal, M. & González, L. (2013). Reflexiones sobre ingeniería de requisitos y pruebas de software: ( ed.). Corporación Universitaria Remington. ',
+        'Echeverri, J. Aristizábal, M. & González, L. (2013). Reflexiones sobre ingeniería de requisitos y pruebas de <em>Software</em>: ( ed.). Corporación Universitaria Remington. ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/68913 ',
     },
     {
       referencia:
-        'Universidad Politécnica Salesiana. (2021). Priorización de requisitos para una adecuada calidad de software. ',
+        'Universidad Politécnica Salesiana. (2021). Priorización de requisitos para una adecuada calidad de <em>Software</em>. ',
       link:
         'https://dspace.ups.edu.ec/bitstream/123456789/20957/1/UPS-GT003395.pdf',
     },
     {
       referencia:
-        'Zapata Jaramillo, C. M. (2006). Alineación entre metas organizacionales y elicitación de requisitos del software: ( ed.). Red Dyna.  ',
+        'Zapata Jaramillo, C. M. (2006). Alineación entre metas organizacionales y elicitación de requisitos del <em>Software</em>: ( ed.). Red Dyna.  ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/304',
     },
     {
       referencia:
-        'Genero Bocco, M. Cruz Lemus, J. A. & Piattini Velthuis, M. G. (2014). Métodos de investigación en ingeniería del software: ( ed.). RA-MA Editorial.  ',
+        'Genero Bocco, M. Cruz Lemus, J. A. & Piattini Velthuis, M. G. (2014). Métodos de investigación en ingeniería del <em>Software</em>: ( ed.). RA-MA Editorial.  ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/106450',
     },
   ],

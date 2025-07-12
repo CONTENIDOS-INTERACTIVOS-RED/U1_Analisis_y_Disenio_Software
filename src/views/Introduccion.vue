@@ -8,10 +8,10 @@
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p.mb-5(data-aos="fade-left") En el proceso de desarrollo de software, uno de los pasos más críticos es la recolección y análisis de requisitos. Esta unidad introduce a los estudiantes en el arte de entender, capturar y organizar las necesidades del cliente o usuario final, una tarea esencial para garantizar el éxito de cualquier proyecto tecnológico. El estudio de esta unidad es fundamental porque permite identificar correctamente, qué debe hacer el sistema antes de pasar al diseño y la implementación, reduciendo costos, tiempos y errores futuros.
+        p.mb-5(data-aos="fade-left") En el proceso de desarrollo de <em>Software</em>, uno de los pasos más críticos es la recolección y análisis de requisitos. Esta unidad introduce a los estudiantes en el arte de entender, capturar y organizar las necesidades del cliente o usuario final, una tarea esencial para garantizar el éxito de cualquier proyecto tecnológico. El estudio de esta unidad es fundamental porque permite identificar correctamente, qué debe hacer el sistema antes de pasar al diseño y la implementación, reduciendo costos, tiempos y errores futuros.
     
         .bg-color-1.p-4(data-aos="fade-left")
-          p.mb-0 Dominar el proceso de recolección y análisis de requisitos, no solo incrementa las probabilidades de éxito en el desarrollo de software, sino que también potencia habilidades de comunicación, análisis crítico y resolución de problemas, competencias muy valoradas en la industria. En su vida profesional, los estudiantes trabajarán frecuentemente con clientes o usuarios que tal vez no sepan expresar sus necesidades de manera técnica, por lo que contar con un buen proceso de recolección y análisis, será crucial para transformar esas necesidades en soluciones reales.
+          p.mb-0 Dominar el proceso de recolección y análisis de requisitos, no solo incrementa las probabilidades de éxito en el desarrollo de <em>Software</em>, sino que también potencia habilidades de comunicación, análisis crítico y resolución de problemas, competencias muy valoradas en la industria. En su vida profesional, los estudiantes trabajarán frecuentemente con clientes o usuarios que tal vez no sepan expresar sus necesidades de manera técnica, por lo que contar con un buen proceso de recolección y análisis, será crucial para transformar esas necesidades en soluciones reales.
     
     .bg-full-width.bg-color-3
       .p-4.p-md-5

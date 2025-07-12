@@ -69,7 +69,7 @@
               img(src="@/assets/curso/tema6/4.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 El modelado es un proceso clave en el diseño y análisis de sistemas, dado que permite representar de manera visual y estructurada diversos aspectos de un sistema, proceso o entidad. Existen varias técnicas y herramientas que facilitan esta tarea, cada una con características específicas que permiten modelar diferentes aspectos de los sistemas, ya sea desde la perspectiva de procesos, datos, interacciones o estructuras (García Mireles, 2006).
-        p(data-aos="fade-left") A continuación, se detallan algunas de las principales técnicas y herramientas de modelado, utilizadas en ingeniería de software y en la gestión de procesos y datos.
+        p(data-aos="fade-left") A continuación, se detallan algunas de las principales técnicas y herramientas de modelado, utilizadas en ingeniería de <em>Software</em> y en la gestión de procesos y datos.
     
     h2(data-aos="fade-left") Técnicas de modelado
     p.mb-5 Las técnicas de modelado son:
@@ -82,7 +82,7 @@
     
         AcordionA(tipo="b")
           .div(titulo="Modelado de procesos de negocio (BPM)")
-            p El modelado de procesos de negocio se enfoca en representar las actividades que conforman un proceso dentro de una organización. Utiliza diagramas como los de flujo de trabajo y BPMN (Business Process Model and Notation) para representar visualmente cómo las tareas se interrelacionan y cómo los recursos son utilizados.
+            p El modelado de procesos de negocio se enfoca en representar las actividades que conforman un proceso dentro de una organización. Utiliza diagramas como los de flujo de trabajo y BPMN (<em>Business Process Model and Notation</em>) para representar visualmente cómo las tareas se interrelacionan y cómo los recursos son utilizados.
             p <b>Ejemplo</b>. En una empresa de ventas, un proceso de negocio puede ser el flujo de recepción de pedidos, donde las actividades incluyen verificar inventarios, facturar, embalar y realizar el envío. El modelo gráfico ayuda a identificar posibles ineficiencias, como la demora en el embalaje.
     
           .div(titulo="Modelado de datos")
@@ -125,16 +125,16 @@
                 img(src="@/assets/curso/tema6/8.png")
             .col-lg-7
               h5 Enterprise Architect
-              p Enterprise Architect es una herramienta avanzada utilizada para modelar sistemas complejos mediante UML (Unified Modeling Language). Se utiliza principalmente en el desarrollo de software y en la ingeniería de sistemas. Permite la creación de diagramas de clases, diagramas de secuencia, diagramas de casos de uso y más.
-              p <b>Ventaja</b>. Enterprise Architect es ideal para proyectos de software grandes y complejos, ofreciendo funciones avanzadas como la simulación de modelos y la gestión de versiones.
+              p Enterprise Architect es una herramienta avanzada utilizada para modelar sistemas complejos mediante UML (<em>Unified Modeling Language</em>). Se utiliza principalmente en el desarrollo de <em>Software</em> y en la ingeniería de sistemas. Permite la creación de diagramas de clases, diagramas de secuencia, diagramas de casos de uso y más.
+              p <b>Ventaja</b>. Enterprise Architect es ideal para proyectos de <em>Software</em> grandes y complejos, ofreciendo funciones avanzadas como la simulación de modelos y la gestión de versiones.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema6/9.png")
             .col-lg-7
               h5 StarUML
-              p StarUML. StarUML es una herramienta de modelado UML que permite crear diagramas de clases, casos de uso, secuencia y otros tipos de diagramas utilizados en el desarrollo de sistemas orientados a objetos. Es una herramienta potente y ligera para proyectos de software.
-              p <b>Ventaja</b>. StarUML es una opción gratuita y fácil de usar para equipos de desarrollo de software que necesitan realizar modelos rápidos de sus sistemas.
+              p StarUML. StarUML es una herramienta de modelado UML que permite crear diagramas de clases, casos de uso, secuencia y otros tipos de diagramas utilizados en el desarrollo de sistemas orientados a objetos. Es una herramienta potente y ligera para proyectos de <em>Software</em>.
+              p <b>Ventaja</b>. StarUML es una opción gratuita y fácil de usar para equipos de desarrollo de <em>Software</em> que necesitan realizar modelos rápidos de sus sistemas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -142,7 +142,7 @@
             .col-lg-7
               h5 BPMN Tool
               p Herramientas como Bizagi y Camunda son especializadas en modelado de procesos de negocio utilizando la notación BPMN. Estas herramientas permiten representar de manera precisa y estandarizada los flujos de trabajo dentro de una organización.
-              p <b>Ventaja</b>. Las herramientas BPMN están especialmente diseñadas para la creación de modelos de procesos de negocio y pueden ser utilizadas tanto por analistas de negocio como por desarrolladores de software.
+              p <b>Ventaja</b>. Las herramientas BPMN están especialmente diseñadas para la creación de modelos de procesos de negocio y pueden ser utilizadas tanto por analistas de negocio como por desarrolladores de <em>Software</em>.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -153,7 +153,7 @@
               p <b>Ventaja</b>. Es completamente gratuita y fácil de usar, ideal para usuarios que no requieren características avanzadas, pero necesitan una herramienta eficiente para diagramas rápidos.
     
     h2(data-aos="fade-left") Ejemplo práctico de uso de técnicas y herramientas de modelado
-    p.mb-5 Supongamos que un equipo de desarrollo de software está creando un sistema de gestión de recursos humanos para una empresa. El proceso de modelado podría realizarse de la siguiente manera:
+    p.mb-5 Supongamos que un equipo de desarrollo de <em>Software</em> está creando un sistema de gestión de recursos humanos para una empresa. El proceso de modelado podría realizarse de la siguiente manera:
 
     .row.align-items-start.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -255,7 +255,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.order-2.text-white
             h2.mb-4(data-aos="flip-up") Aplicaciones prácticas del modelado
-            p.mb-4(data-aos="fade-right") En el PDF <b>Aplicaciones prácticas del modelado</b>, se presentan diversos ejemplos que ilustran cómo esta técnica puede ser utilizada en contextos reales, desde el diseño de sistemas y bases de datos hasta la documentación técnica y la optimización de procesos empresariales. Esta aproximación práctica permite comprender el valor estratégico del modelado para mejorar la calidad del software, facilitar la comunicación entre equipos y garantizar la eficiencia en el desarrollo y mantenimiento de soluciones tecnológicas.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Aplicaciones prácticas del modelado</b>, se presentan diversos ejemplos que ilustran cómo esta técnica puede ser utilizada en contextos reales, desde el diseño de sistemas y bases de datos hasta la documentación técnica y la optimización de procesos empresariales. Esta aproximación práctica permite comprender el valor estratégico del modelado para mejorar la calidad del <em>Software</em>, facilitar la comunicación entre equipos y garantizar la eficiencia en el desarrollo y mantenimiento de soluciones tecnológicas.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_12.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")

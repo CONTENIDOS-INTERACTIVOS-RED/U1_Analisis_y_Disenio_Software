@@ -10,7 +10,7 @@
             img(src='@/assets/curso/tema1/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Cuando se enfrenta al desafío de construir un sistema de software, el primer paso que se debe dar es entender claramente lo que los usuarios necesitan. Esta tarea no es sencilla, pero existen diferentes técnicas de recopilación de requisitos que permiten obtener la información necesaria de manera organizada y confiable. A continuación, se deberá conocer cada técnica y aprender cuándo y cómo aplicarlas, utilizando ejemplos para que se visualice su utilidad (Gil Pascual, 2016).
+            p.mb-0(data-aos="fade-up") Cuando se enfrenta al desafío de construir un sistema de <em>Software</em>, el primer paso que se debe dar es entender claramente lo que los usuarios necesitan. Esta tarea no es sencilla, pero existen diferentes técnicas de recopilación de requisitos que permiten obtener la información necesaria de manera organizada y confiable. A continuación, se deberá conocer cada técnica y aprender cuándo y cómo aplicarlas, utilizando ejemplos para que se visualice su utilidad (Gil Pascual, 2016).
     
     h2.mb-5(data-aos="fade-left") ¿Qué es la recopilación de requisitos?
 
@@ -20,7 +20,7 @@
           img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
       .col-lg-7.order-lg-1
         .bg-color-5.h-100.py-5.px-5(data-aos="fade-left")
-          p.mb-0 La recopilación de requisitos es el proceso mediante el cual se identifica, documenta y se comprenden las necesidades, expectativas y restricciones de los usuarios y otras partes interesadas, respecto al sistema que se va a desarrollar. Una buena recopilación de requisitos evita errores costosos, disminuye malentendidos y asegura que el software cumpla con su propósito (Gil Pascual, 2016).
+          p.mb-0 La recopilación de requisitos es el proceso mediante el cual se identifica, documenta y se comprenden las necesidades, expectativas y restricciones de los usuarios y otras partes interesadas, respecto al sistema que se va a desarrollar. Una buena recopilación de requisitos evita errores costosos, disminuye malentendidos y asegura que el <em>Software</em> cumpla con su propósito (Gil Pascual, 2016).
 
     #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.1] Entrevistas
@@ -332,15 +332,15 @@
               img(src="@/assets/curso/tema1/13.png", data-aos="zoom-in")
           .col-lg-9.order-lg-1
             h5 Ejemplo:
-            p(data-aos="fade-left") Supongamos que se quiere mejorar el sistema de control de inventario de una tienda. Se debe ir al almacén y observar que los empleados registran productos, tanto en un software como en hojas de papel, generando duplicidad y errores. Esta información no se habría obtenido solo preguntándoles, porque muchas veces los usuarios normalizan sus malas prácticas.
+            p(data-aos="fade-left") Supongamos que se quiere mejorar el sistema de control de inventario de una tienda. Se debe ir al almacén y observar que los empleados registran productos, tanto en un <em>Software</em> como en hojas de papel, generando duplicidad y errores. Esta información no se habría obtenido solo preguntándoles, porque muchas veces los usuarios normalizan sus malas prácticas.
         
             .bg-color-1.bordes.p-5(data-aos="fade-left")
               p.mb-0 <b>Importante</b>: la observación revela los "requisitos tácitos", aquellos que los usuarios no verbalizan, pero que son cruciales para el éxito del proyecto.
 
     #t_1_4.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.4] Talleres de trabajo (workshops)
+      h2 #[span 1.4] Talleres de trabajo (<em>workshops</em>)
     
-    p Un workshop es una técnica colaborativa donde se reúnen a todos los involucrados (usuarios finales, líderes de proyecto, stakeholders, etc.), para definir juntos, los requisitos (Fresno Chávez, 2018).
+    p Un workshop es una técnica colaborativa donde se reúnen a todos los involucrados (usuarios finales, líderes de proyecto, <em>stakeholders</em>, etc.), para definir juntos, los requisitos (Fresno Chávez, 2018).
     p Aquí se fomenta la creatividad, la discusión y la construcción conjunta de soluciones.
     p.mb-5 Características de un workshop efectivo:
 
@@ -441,8 +441,8 @@
       p Si se debe diseñar una app bancaria, sería vital que se revisen los reglamentos de seguridad financiera del país, así como los manuales de procedimientos internos, que actualmente maneja el banco.
       p <b>Consejo</b>. No se debe limitar a leer los documentos: cuestione su vigencia y relevancia. La revisión documental siempre debe ser crítica.
 
-    #t_1_5.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.5] Brainstorming y Focus Groups
+    #t_1_6.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.6] <em>Brainstorming</em> y <em>Focus Groups</em>
     
     p.mb-5 Ambas técnicas son muy útiles cuando se quieren generar nuevas ideas o identificar necesidades no evidentes (Gil Pascual, 2016).
 
@@ -454,7 +454,7 @@
               figure
                 img(src="@/assets/curso/tema1/24.png")
             .col-lg-7
-              h5 Brainstorming (lluvia de ideas)
+              h5 <em>Brainstorming</em> (lluvia de ideas)
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right
@@ -471,7 +471,7 @@
               figure
                 img(src="@/assets/curso/tema1/25.png")
             .col-lg-7
-              h5 Focus Groups
+              h5 <em>Focus Groups</em>
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right
@@ -504,7 +504,7 @@
     
         .bg-color-1.p-4(data-aos="fade-left")
           h5 Ejemplo:
-          p.mb-0 Al desarrollar una app de fitness personalizada, realizar un focus group con personas de diferentes edades y estilos de vida. Descubra que, para los usuarios jóvenes, es clave la gamificación (recompensas y logros), mientras que los adultos mayores, priorizan la facilidad de uso y la accesibilidad.
+          p.mb-0 Al desarrollar una app de <em>fitness</em> personalizada, realizar un focus group con personas de diferentes edades y estilos de vida. Descubra que, para los usuarios jóvenes, es clave la gamificación (recompensas y logros), mientras que los adultos mayores, priorizan la facilidad de uso y la accesibilidad.
 
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5
@@ -515,7 +515,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/113783" target="_blank" rel="noopener noreferrer") Manovich, L. (2014) El software toma el mando. Editorial UOC. 
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/113783" target="_blank" rel="noopener noreferrer") Manovich, L. (2014) El <em>Software</em> toma el mando. Editorial UOC. 
 
 
             p.d-flex.my-4

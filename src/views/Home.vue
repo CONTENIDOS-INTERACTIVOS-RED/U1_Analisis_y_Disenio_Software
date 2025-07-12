@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 En el proceso de desarrollo de software, uno de los momentos más decisivos es comprender a fondo las necesidades del usuario. Esta unidad introduce técnicas y herramientas clave para recolectar, analizar y priorizar requisitos, asegurando que el sistema final responda con precisión a las expectativas del cliente. A través de entrevistas, talleres, encuestas, observaciones y mapas de empatía, se desarrollan competencias analíticas y comunicativas esenciales para transformar ideas en soluciones tecnológicas eficaces.
+              p.descripcion.mb-4 En el proceso de desarrollo de <em>Software</em>, uno de los momentos más decisivos es comprender a fondo las necesidades del usuario. Esta unidad introduce técnicas y herramientas clave para recolectar, analizar y priorizar requisitos, asegurando que el sistema final responda con precisión a las expectativas del cliente. A través de entrevistas, talleres, encuestas, observaciones y mapas de empatía, se desarrollan competencias analíticas y comunicativas esenciales para transformar ideas en soluciones tecnológicas eficaces.
               
               p #[b ¡Prepárese para diseñar soluciones que respondan a necesidades reales con criterio, técnica y visión estratégica!]
 

@@ -10,7 +10,7 @@
             img(src='@/assets/curso/tema4/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") El Lenguaje Unificado de Modelado UML (Unified Modeling Language), se ha consolidado como un estándar para visualizar, especificar, construir y documentar los artefactos de un sistema de software. Este lenguaje proporciona un conjunto de notaciones gráficas que permiten representar diferentes aspectos de un sistema de manera estructurada y comprensible para todos los involucrados en su desarrollo (Teniente López et al., 2015).
+            p.mb-0(data-aos="fade-up") El Lenguaje Unificado de Modelado UML (<em>Unified Modeling Language</em>), se ha consolidado como un estándar para visualizar, especificar, construir y documentar los artefactos de un sistema de <em>Software</em>. Este lenguaje proporciona un conjunto de notaciones gráficas que permiten representar diferentes aspectos de un sistema de manera estructurada y comprensible para todos los involucrados en su desarrollo (Teniente López et al., 2015).
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -24,7 +24,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema4/3.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Este lenguaje surgió en la década de 1990 como respuesta a la necesidad de unificar diversas metodologías de modelado que existían en el ámbito de la ingeniería de software. Grady Booch, Ivar Jacobson y James Rumbaugh, reconocidos expertos en modelado de sistemas, colaboraron para crear un lenguaje común que permitiera mejorar la comunicación entre diseñadores, desarrolladores, analistas y clientes.
+              p.mb-0 Este lenguaje surgió en la década de 1990 como respuesta a la necesidad de unificar diversas metodologías de modelado que existían en el ámbito de la ingeniería de <em>Software</em>. Grady Booch, Ivar Jacobson y James Rumbaugh, reconocidos expertos en modelado de sistemas, colaboraron para crear un lenguaje común que permitiera mejorar la comunicación entre diseñadores, desarrolladores, analistas y clientes.
         p UML organiza los modelos en diferentes tipos de diagramas, agrupados principalmente en tres categorías:
     
     .bg-full-width.bg-color-11
@@ -52,14 +52,14 @@
     #t_4_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 4.1] Elementos básicos de UML
     
-    p.mb-5 UML se construye a partir de un conjunto de elementos básicos que permiten representar diferentes componentes de un sistema de software. Estos elementos sirven como bloques fundamentales para construir modelos completos y detallados (Teniente López et al., 2015). Comprenderlos es esencial para interpretar o diseñar diagramas de manera precisa.
+    p.mb-5 UML se construye a partir de un conjunto de elementos básicos que permiten representar diferentes componentes de un sistema de <em>Software</em>. Estos elementos sirven como bloques fundamentales para construir modelos completos y detallados (Teniente López et al., 2015). Comprenderlos es esencial para interpretar o diseñar diagramas de manera precisa.
 
     .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.order-2.text-white
             h2.mb-4(data-aos="flip-up") Elementos básicos de UML
-            p.mb-4(data-aos="fade-right") En el PDF <b>Elementos básicos de UML</b>, se describen y ejemplifican los componentes fundamentales del Lenguaje Unificado de Modelado (UML), agrupados en categorías estructurales, comportamentales, de agrupación y de anotación, facilitando así la comprensión y aplicación de este lenguaje en contextos reales de desarrollo de software.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Elementos básicos de UML</b>, se describen y ejemplifican los componentes fundamentales del Lenguaje Unificado de Modelado (UML), agrupados en categorías estructurales, comportamentales, de agrupación y de anotación, facilitando así la comprensión y aplicación de este lenguaje en contextos reales de desarrollo de <em>Software</em>.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -96,7 +96,7 @@
     #t_4_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 4.3] Uso de diagramas UML en el análisis de requisitos
     
-    p.mb-5 En el análisis de requisitos, el uso de diagramas UML (Unified Modeling Language) resulta fundamental para representar de manera clara y visual los requerimientos del sistema que se está desarrollando. Los diagramas UML permiten a los analistas y diseñadores capturar los procesos, las interacciones y la estructura del sistema, facilitando la comprensión y comunicación entre los involucrados en el proyecto, como clientes, desarrolladores y stakeholders (Teniente López et al., 2015).
+    p.mb-5 En el análisis de requisitos, el uso de diagramas UML (<em>Unified Modeling Language</em>) resulta fundamental para representar de manera clara y visual los requerimientos del sistema que se está desarrollando. Los diagramas UML permiten a los analistas y diseñadores capturar los procesos, las interacciones y la estructura del sistema, facilitando la comprensión y comunicación entre los involucrados en el proyecto, como clientes, desarrolladores y <em>stakeholders</em> (Teniente López et al., 2015).
 
     .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
@@ -125,7 +125,7 @@
             figure
               img(src="@/assets/curso/tema4/10.png", data-aos="zoom-in")
           .col-lg-9.order-lg-1
-            p.mb-5(data-aos="fade-left") En la fase de diseño del sistema, los diagramas UML (Unified Modeling Language) juegan un papel fundamental al proporcionar una representación visual detallada de la arquitectura, los componentes y la interacción entre ellos. Esta representación permite a los diseñadores, arquitectos de software y desarrolladores, entender la estructura interna del sistema y cómo los distintos módulos deben interactuar, facilitando la creación de un diseño robusto y eficiente. Los diagramas UML utilizados en esta fase, no solo especifican cómo se deben implementar los requisitos, sino también cómo se debe organizar y estructurar el código para asegurar un sistema escalable y mantenible (Teniente López et al., 2015).
+            p.mb-5(data-aos="fade-left") En la fase de diseño del sistema, los diagramas UML (<em>Unified Modeling Language</em>) juegan un papel fundamental al proporcionar una representación visual detallada de la arquitectura, los componentes y la interacción entre ellos. Esta representación permite a los diseñadores, arquitectos de <em>Software</em> y desarrolladores, entender la estructura interna del sistema y cómo los distintos módulos deben interactuar, facilitando la creación de un diseño robusto y eficiente. Los diagramas UML utilizados en esta fase, no solo especifican cómo se deben implementar los requisitos, sino también cómo se debe organizar y estructurar el código para asegurar un sistema escalable y mantenible (Teniente López et al., 2015).
         
             .bg-color-4.p-4(data-aos="fade-left")
               p.mb-0 Los diagramas UML más relevantes para el diseño del sistema son los diagramas de clases, componentes, secuencia, colaboración y despliegue. A continuación, se detallan cómo se emplean estos diagramas en la fase de diseño.
@@ -141,7 +141,7 @@
             p En el diseño de sistemas orientados a objetos, el diagrama de clases es crucial para definir la estructura estática del sistema. Este diagrama describe las clases, sus atributos, métodos y las relaciones entre ellas, como asociaciones, herencia y composición. Durante la fase de diseño, el diagrama de clases se utiliza para planificar la estructura del sistema y cómo se organizan los objetos y las interacciones entre ellos (Rodríguez, 2012).
     
           .div(titulo="Diagramas de componentes")
-            p Los diagramas de componentes son fundamentales en el diseño de sistemas a gran escala, debido a que permiten representar los componentes del sistema como unidades modulares que interactúan entre sí. Estos diagramas describen los componentes de software (como módulos, subsistemas o servicios) y las interfaces que permiten la comunicación entre ellos (Rodríguez, 2012). Durante la fase de diseño, estos diagramas ayudan a planificar la arquitectura general del sistema y a identificar cómo se deben organizar los distintos módulos de forma que sean reutilizables y fáciles de mantener.
+            p Los diagramas de componentes son fundamentales en el diseño de sistemas a gran escala, debido a que permiten representar los componentes del sistema como unidades modulares que interactúan entre sí. Estos diagramas describen los componentes de <em>Software</em> (como módulos, subsistemas o servicios) y las interfaces que permiten la comunicación entre ellos (Rodríguez, 2012). Durante la fase de diseño, estos diagramas ayudan a planificar la arquitectura general del sistema y a identificar cómo se deben organizar los distintos módulos de forma que sean reutilizables y fáciles de mantener.
     
           .div(titulo="Diagramas de secuencia")
             p Los diagramas de secuencia son utilizados para describir cómo los objetos del sistema interactúan en el tiempo, mostrando el orden en que ocurren los eventos y cómo se pasan mensajes entre los objetos. Estos diagramas son muy útiles para modelar la lógica de negocio en el diseño de un sistema, especialmente para describir procesos complejos que involucran múltiples actores y objetos.
@@ -161,7 +161,7 @@
           .div(titulo="Diagramas de colaboración")
             p Los diagramas de colaboración son similares a los diagramas de secuencia, pero en lugar de centrarse en el tiempo, se enfocan en cómo los objetos interactúan entre sí para llevar a cabo una tarea específica. Estos diagramas muestran los objetos involucrados en una operación y las relaciones entre ellos, con énfasis en el flujo de mensajes entre los objetos. Son útiles para comprender la estructura colaborativa de los objetos durante el diseño (Rodríguez, 2012).
           .div(titulo="Diagramas de despliegue")
-            p El diagrama de despliegue se utiliza para representar la distribución física del sistema en el hardware, mostrando cómo los componentes del software se distribuyen en los nodos de la red o servidores. Este diagrama es fundamental para planificar la infraestructura tecnológica necesaria para soportar el sistema y garantizar su rendimiento, escalabilidad y disponibilidad (Teniente López et al., 2015).
+            p El diagrama de despliegue se utiliza para representar la distribución física del sistema en el <em>hardware</em>, mostrando cómo los componentes del <em>Software</em> se distribuyen en los nodos de la red o servidores. Este diagrama es fundamental para planificar la infraestructura tecnológica necesaria para soportar el sistema y garantizar su rendimiento, escalabilidad y disponibilidad (Teniente López et al., 2015).
     
     .row.mb-5
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
@@ -200,7 +200,7 @@
                 img(src="@/assets/curso/tema4/16.png")
             .col-lg-7
               h5 StarUML
-              p StarUML es una potente herramienta de escritorio enfocada en proyectos de software de mediana y gran escala. Permite modelar múltiples tipos de diagramas UML, integrar código fuente y documentar de forma automática los modelos creados. Se destaca por soportar la generación de código en varios lenguajes de programación.
+              p StarUML es una potente herramienta de escritorio enfocada en proyectos de <em>Software</em> de mediana y gran escala. Permite modelar múltiples tipos de diagramas UML, integrar código fuente y documentar de forma automática los modelos creados. Se destaca por soportar la generación de código en varios lenguajes de programación.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -215,7 +215,7 @@
                 img(src="@/assets/curso/tema4/18.png")
             .col-lg-7
               h5 Enterprise Architect
-              p Enterprise Architect es una de las herramientas más robustas del mercado, orientada a proyectos de ingeniería de software a gran escala. Permite integrar UML con otras notaciones como BPMN (Business Process Model and Notation) y SysML (Systems Modeling Language). Además, gestiona versiones y cambios de modelos de manera profesional.
+              p Enterprise Architect es una de las herramientas más robustas del mercado, orientada a proyectos de ingeniería de <em>Software</em> a gran escala. Permite integrar UML con otras notaciones como BPMN (<em>Business Process Model and Notation</em>) y SysML (Systems Modeling Language). Además, gestiona versiones y cambios de modelos de manera profesional.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -256,7 +256,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.text-white.order-2
             h2.mb-4(data-aos="flip-up") Buenas prácticas en la creación de diagramas UML
-            p.mb-4(data-aos="fade-right") En el PDF <b>Buenas prácticas en la creación de diagramas UML</b>, se presentan recomendaciones clave para elaborar diagramas comprensibles, precisos y útiles en el desarrollo de software. Estas buenas prácticas —como definir el propósito, emplear una notación estandarizada, mantener la claridad y validar los modelos— garantizan que los diagramas no solo representen correctamente el sistema, sino que también faciliten la colaboración entre los actores involucrados en el proyecto.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Buenas prácticas en la creación de diagramas UML</b>, se presentan recomendaciones clave para elaborar diagramas comprensibles, precisos y útiles en el desarrollo de <em>Software</em>. Estas buenas prácticas —como definir el propósito, emplear una notación estandarizada, mantener la claridad y validar los modelos— garantizan que los diagramas no solo representen correctamente el sistema, sino que también faciliten la colaboración entre los actores involucrados en el proyecto.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -283,7 +283,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=gXQkFQtKciM" target="_blank" rel="noopener noreferrer") Ingeniería de Software de Élite. [@EdgarFernandez] (2023, 16 de  junio). Análisis de sistemas de software con UML - Vista de Dominio (Clases conceptuales). [Video]. YouTube.  
+              a(href="https://www.youtube.com/watch?v=gXQkFQtKciM" target="_blank" rel="noopener noreferrer") Ingeniería de <em>Software</em> de Élite. [@EdgarFernandez] (2023, 16 de  junio). Análisis de sistemas de <em>Software</em> con UML - Vista de Dominio (Clases conceptuales). [Video]. YouTube.  
 
 
 

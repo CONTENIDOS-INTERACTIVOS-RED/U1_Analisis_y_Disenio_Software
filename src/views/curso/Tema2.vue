@@ -60,7 +60,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right
-                  p.mb-0 Si se plantea integrar Inteligencia Artificial a una app de mensajería, pero el equipo no tiene experiencia previa en Machine Learning, la implementación podría no ser viable a corto plazo y requeriría capacitación previa o contratación de expertos.
+                  p.mb-0 Si se plantea integrar Inteligencia Artificial a una app de mensajería, pero el equipo no tiene experiencia previa en Machine <em>Learning</em>, la implementación podría no ser viable a corto plazo y requeriría capacitación previa o contratación de expertos.
     
     .row.mb-5
       .col-lg-2.order-lg-2.mb-3.mb-lg-0
@@ -187,7 +187,7 @@
               figure
                 img(src="@/assets/curso/tema2/10.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Software especializado
+              h5 <em>Software</em> especializado
               p Herramientas como Jira, Trello, Monday.com o ClickUp, ofrecen funcionalidades para priorizar requisitos utilizando etiquetas, votos del equipo, tablas de esfuerzo vs. valor, y automatizaciones que apoyan la toma de decisiones (Echeverri et al., 2013).
     
     .bg-full-width.bg-color-3
@@ -219,7 +219,7 @@
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema2/14.svg" alt="" style="width: 90px")
               h5.text-center Escalar conflictos cuando sea necesario
-              p.mb-0.text-center Si el conflicto persiste, se puede recurrir a la dirección del proyecto o al comité de stakeholders para que definan las prioridades estratégicas.
+              p.mb-0.text-center Si el conflicto persiste, se puede recurrir a la dirección del proyecto o al comité de <em>stakeholders</em> para que definan las prioridades estratégicas.
 
     .row.mb-5
       .col-lg-2.order-lg-2.mb-3.mb-lg-0
@@ -228,7 +228,7 @@
       .col-lg-10.order-lg-1
         h2 Ejemplo de resolución de conflicto
         .bg-color-5.p-5(data-aos="fade-left")
-          p En un proyecto de desarrollo de software educativo, el área de marketing insistía en priorizar el diseño visual, mientras que los docentes preferían que se priorizara la facilidad de uso. 
+          p En un proyecto de desarrollo de <em>Software</em> educativo, el área de marketing insistía en priorizar el diseño visual, mientras que los docentes preferían que se priorizara la facilidad de uso. 
           p.mb-0 El equipo de desarrollo propuso una solución intermedia: un primer lanzamiento enfocado en funcionalidad básica, seguido de una segunda fase que mejorará la estética visual. Esta estrategia fue aceptada por ambas partes.
 
 
@@ -241,12 +241,12 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/66410" target="_blank" rel="noopener noreferrer") Díaz, J. Harari, I. & Amadeo, A. P. (2013). Guía de recomendaciones para diseño de software centrado en el usuario: ( ed.). D - Editorial de la Universidad Nacional de La Plata. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/66410" target="_blank" rel="noopener noreferrer") Díaz, J. Harari, I. & Amadeo, A. P. (2013). Guía de recomendaciones para diseño de <em>Software</em> centrado en el usuario: ( ed.). D - Editorial de la Universidad Nacional de La Plata. 
 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/ccSS4C5GYxs?si=l7pZASsTR5A1-h9y" target="_blank" rel="noopener noreferrer") MobilizaAcademy (2021, 23 de julio) Las mejores metodologías ágiles para el Desarrollo de Software. [Video] YouTube. 
+              a(href="https://youtu.be/ccSS4C5GYxs?si=l7pZASsTR5A1-h9y" target="_blank" rel="noopener noreferrer") MobilizaAcademy (2021, 23 de julio) Las mejores metodologías ágiles para el Desarrollo de <em>Software</em>. [Video] YouTube. 
 
 
 

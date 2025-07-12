@@ -10,9 +10,9 @@
             img(src='@/assets/curso/tema7/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0.text-white(data-aos="fade-up") Los principios SOLID constituyen un conjunto de buenas prácticas en el diseño de software orientado a objetos. Su propósito principal es aumentar la calidad, mantenibilidad, flexibilidad y escalabilidad, del código fuente. Estos principios fueron popularizados por Robert C. Martin (Uncle Bob) y han sido adoptados ampliamente en la ingeniería de software profesional, como fundamentos claves del diseño limpio (clean code).
+            p.mb-0.text-white(data-aos="fade-up") Los principios SOLID constituyen un conjunto de buenas prácticas en el diseño de <em>Software</em> orientado a objetos. Su propósito principal es aumentar la calidad, mantenibilidad, flexibilidad y escalabilidad, del código fuente. Estos principios fueron popularizados por Robert C. Martin (Uncle Bob) y han sido adoptados ampliamente en la ingeniería de <em>Software</em> profesional, como fundamentos claves del diseño limpio (clean code).
     
-    p.mb-5 La sigla SOLID corresponde a las iniciales de cinco principios fundamentales: Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle y Dependency Inversion Principle (García Carmona, 2012).
+    p.mb-5 La sigla SOLID corresponde a las iniciales de cinco principios fundamentales: Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, <em>Interface Segregation Principle</em> y Dependency Inversion Principle (García Carmona, 2012).
   
 
     #t_7_1.titulo-segundo(data-aos="flip-up")
@@ -23,11 +23,11 @@
         figure
           img(src="@/assets/curso/tema7/2.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p.mb-5(data-aos="fade-left") El diseño orientado a objetos (OO), es una metodología de desarrollo de software que se centra en la creación de sistemas utilizando entidades llamadas objetos, los cuales representan elementos del mundo real o conceptos abstractos. 
+        p.mb-5(data-aos="fade-left") El diseño orientado a objetos (OO), es una metodología de desarrollo de <em>Software</em> que se centra en la creación de sistemas utilizando entidades llamadas objetos, los cuales representan elementos del mundo real o conceptos abstractos. 
     
         .bg-color-4.p-4.mb-3(data-aos="fade-left")
           p Cada objeto combina estado (datos) y comportamiento (métodos o funciones), promoviendo así una representación más natural e intuitiva de los problemas computacionales.
-          p.mb-0 En este enfoque, el software se estructura a partir de clases, que actúan como plantillas para crear objetos. Las clases definen las propiedades (atributos) y las operaciones (métodos) que los objetos pueden tener. A través de este modelo, se facilita la reutilización del código, la escalabilidad de los sistemas y la organización modular de las funcionalidades (García Carmona, 2012).
+          p.mb-0 En este enfoque, el <em>Software</em> se estructura a partir de clases, que actúan como plantillas para crear objetos. Las clases definen las propiedades (atributos) y las operaciones (métodos) que los objetos pueden tener. A través de este modelo, se facilita la reutilización del código, la escalabilidad de los sistemas y la organización modular de las funcionalidades (García Carmona, 2012).
         p Los cuatro pilares fundamentales del paradigma orientado a objetos, son:
     
     .bg-full-width.bg-color-3
@@ -58,7 +58,7 @@
     
     .bg-full-width.bg-color-2.mb-5
       .px-4.px-md-5.py-4
-        p.mb-0.text-white El diseño OO no se limita a representar entidades, sino que también busca organizar la lógica del sistema de forma coherente y mantenible, favoreciendo la evolución del software a lo largo del tiempo.
+        p.mb-0.text-white El diseño OO no se limita a representar entidades, sino que también busca organizar la lógica del sistema de forma coherente y mantenible, favoreciendo la evolución del <em>Software</em> a lo largo del tiempo.
     
     h2(data-aos="fade-left") Problemáticas comunes en el diseño sin principios sólidos
     p.mb-5 A pesar de sus ventajas, un mal uso del diseño orientado a objetos, puede generar sistemas acoplados, frágiles y difíciles de mantener. Entre los errores frecuentes se encuentran:
@@ -127,10 +127,10 @@
         figure
           img(src="@/assets/curso/tema7/10.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p.mb-5(data-aos="fade-left") El Principio de Abierto/Cerrado (OCP) establece que las entidades de software (como clases, módulos o funciones), deben estar abiertas para su extensión, pero cerradas para su modificación. Esto significa que el comportamiento de una clase puede ser extendido, sin necesidad de alterar su código fuente original (García Carmona, 2012). 
+        p.mb-5(data-aos="fade-left") El Principio de Abierto/Cerrado (OCP) establece que las entidades de <em>Software</em> (como clases, módulos o funciones), deben estar abiertas para su extensión, pero cerradas para su modificación. Esto significa que el comportamiento de una clase puede ser extendido, sin necesidad de alterar su código fuente original (García Carmona, 2012). 
     
         .bg-color-6.p-4.mb-3(data-aos="fade-left")
-          p.mb-0 El objetivo central del OCP es proteger la estabilidad del sistema ante cambios constantes, fomentando la reutilización del código existente y reduciendo el riesgo de errores al modificar componentes ya probados. Se trata de un principio esencial en el desarrollo evolutivo de software, donde las funcionalidades crecen sin comprometer lo que ya funciona.
+          p.mb-0 El objetivo central del OCP es proteger la estabilidad del sistema ante cambios constantes, fomentando la reutilización del código existente y reduciendo el riesgo de errores al modificar componentes ya probados. Se trata de un principio esencial en el desarrollo evolutivo de <em>Software</em>, donde las funcionalidades crecen sin comprometer lo que ya funciona.
     
     h2(data-aos="fade-left") Problemática cuando se viola el OCP
     p.mb-5 En muchos sistemas, los cambios de requerimientos implican modificar directamente clases ya existentes. Este enfoque puede traer consecuencias negativas:
@@ -228,7 +228,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.order-2.text-white
             h2.mb-4(data-aos="flip-up") Principio de Sustitución de Liskov (LSP)
-            p.mb-4(data-aos="fade-right") En el PDF <b>Principio de Sustitución de Liskov</b>, se presentan ejemplos prácticos que permiten identificar cuándo se cumple o se infringe este principio, destacando su impacto en la estructura lógica del software y ofreciendo pautas claras para implementar jerarquías de clases correctas y funcionales.
+            p.mb-4(data-aos="fade-right") En el PDF <b>Principio de Sustitución de Liskov</b>, se presentan ejemplos prácticos que permiten identificar cuándo se cumple o se infringe este principio, destacando su impacto en la estructura lógica del <em>Software</em> y ofreciendo pautas claras para implementar jerarquías de clases correctas y funcionales.
     
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_14.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -253,8 +253,8 @@
             .col-lg-auto
               img(src="@/assets/curso/tema7/23.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 El Principio de Segregación de Interfaces (Interface Segregation Principle - ISP), establece que ningún cliente debe verse obligado a depender de métodos que no utiliza. En otras palabras, las interfaces deben ser específicas y pequeñas, orientadas a roles bien definidos, evitando la creación de interfaces generales que obliguen a implementar funcionalidades innecesarias (Leiva, 2021).
-        p(data-aos="fade-left") Este principio busca evitar el acoplamiento innecesario entre las clases y los módulos del software, favoreciendo un diseño más flexible, fácil de mantener y de escalar.
+              p.mb-0 El Principio de Segregación de Interfaces (<em>Interface Segregation Principle</em> - ISP), establece que ningún cliente debe verse obligado a depender de métodos que no utiliza. En otras palabras, las interfaces deben ser específicas y pequeñas, orientadas a roles bien definidos, evitando la creación de interfaces generales que obliguen a implementar funcionalidades innecesarias (Leiva, 2021).
+        p(data-aos="fade-left") Este principio busca evitar el acoplamiento innecesario entre las clases y los módulos del <em>Software</em>, favoreciendo un diseño más flexible, fácil de mantener y de escalar.
     
     h2(data-aos="fade-left") Problema común: una interfaz demasiado grande
     p Cuando una interfaz abarca demasiadas responsabilidades, los clientes que la implementan pueden verse forzados a proporcionar definiciones para métodos que no tienen sentido en su contexto (Leiva, 2021). Esto genera código redundante o vacío, dificulta el mantenimiento y rompe con los principios de diseño limpio.
@@ -300,7 +300,7 @@
               p.mb-0 Mejora la cohesión del código, debido a que las clases solo se relacionan con funcionalidades relevantes.
             li.mb-2.d-flex
               i.far.fa-arrow-alt-circle-right
-              p.mb-0 Facilita la reutilización y el mantenimiento del software.
+              p.mb-0 Facilita la reutilización y el mantenimiento del <em>Software</em>.
             li.mb-2.d-flex
               i.far.fa-arrow-alt-circle-right
               p.mb-0 Reduce el impacto de los cambios, dado que las modificaciones en una interfaz no afectan a clases que no la usan.

@@ -10,11 +10,11 @@
             img(src='@/assets/curso/tema3/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0.text-white(data-aos="fade-up") Las herramientas de análisis son fundamentales en el ciclo de vida del desarrollo de software, porque facilitan la organización, documentación y comunicación de los requisitos del sistema. Estas herramientas permiten, que tanto los usuarios como los desarrolladores, compartan una visión común del producto que se desea crear. El uso adecuado de herramientas de análisis permite obtener resultados más precisos, evitando errores costosos y mejorando la calidad final del sistema (Genero Bocco et al., 2014).
+            p.mb-0.text-white(data-aos="fade-up") Las herramientas de análisis son fundamentales en el ciclo de vida del desarrollo de <em>Software</em>, porque facilitan la organización, documentación y comunicación de los requisitos del sistema. Estas herramientas permiten, que tanto los usuarios como los desarrolladores, compartan una visión común del producto que se desea crear. El uso adecuado de herramientas de análisis permite obtener resultados más precisos, evitando errores costosos y mejorando la calidad final del sistema (Genero Bocco et al., 2014).
     
     .bg-full-width.bg-color-13
       .p-4.p-md-5
-        p.mb-5 En el contexto de la ingeniería de software, existen diversas herramientas que se utilizan en la fase de análisis de requisitos, y en este tema se abordarán tres de las más importantes:
+        p.mb-5 En el contexto de la ingeniería de <em>Software</em>, existen diversas herramientas que se utilizan en la fase de análisis de requisitos, y en este tema se abordarán tres de las más importantes:
 
         .row.justify-content-center.align-items-stretch
           .col-lg-4.mb-4(data-aos="zoom-in-up")
@@ -39,7 +39,7 @@
           .col-lg-auto
             img(src="@/assets/curso/tema3/5.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 Cada una de estas herramientas juega un papel crucial en garantizar que el software se construya de acuerdo con los requerimientos definidos y que, además, se puedan realizar cambios de manera controlada.
+            p.mb-0 Cada una de estas herramientas juega un papel crucial en garantizar que el <em>Software</em> se construya de acuerdo con los requerimientos definidos y que, además, se puedan realizar cambios de manera controlada.
 
     #t_3_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.1] Diagramas de casos de uso
@@ -128,7 +128,7 @@
     #t_3_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.2] Historias de usuario
     
-    p.mb-5 Las historias de usuario son una herramienta clave en el desarrollo ágil de software, ya que permiten capturar y comunicar de manera clara las necesidades reales de los usuarios desde su propia perspectiva.
+    p.mb-5 Las historias de usuario son una herramienta clave en el desarrollo ágil de <em>Software</em>, ya que permiten capturar y comunicar de manera clara las necesidades reales de los usuarios desde su propia perspectiva.
 
     .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
@@ -160,7 +160,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema3/16.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 La matriz de trazabilidad de requisitos, es una herramienta fundamental en la gestión de proyectos de desarrollo de software, especialmente cuando se busca asegurar que todos los requisitos del proyecto se han cumplido adecuadamente y se han implementado de acuerdo con lo solicitado. Su principal función es conectar los requisitos del sistema con los entregables y las pruebas realizadas, lo que permite verificar que todos los aspectos del proyecto han sido cubiertos (Genero Bocco et al., 2014).
+              p.mb-0 La matriz de trazabilidad de requisitos, es una herramienta fundamental en la gestión de proyectos de desarrollo de <em>Software</em>, especialmente cuando se busca asegurar que todos los requisitos del proyecto se han cumplido adecuadamente y se han implementado de acuerdo con lo solicitado. Su principal función es conectar los requisitos del sistema con los entregables y las pruebas realizadas, lo que permite verificar que todos los aspectos del proyecto han sido cubiertos (Genero Bocco et al., 2014).
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -168,7 +168,7 @@
           img(src="@/assets/curso/tema3/17.png", data-aos="zoom-in")
       .col-lg-8
         h2(data-aos="fade-left") ¿Qué es una matriz de trazabilidad de requisitos?
-        p.mb-5 Una matriz de trazabilidad de requisitos es un documento o herramienta que ayuda a mapear y vincular los requisitos con los elementos de diseño, las implementaciones y las pruebas correspondientes en el proceso de desarrollo del software. El objetivo es asegurar que cada requisito tenga una correspondencia directa con las actividades de desarrollo y validación, que se deben realizar.
+        p.mb-5 Una matriz de trazabilidad de requisitos es un documento o herramienta que ayuda a mapear y vincular los requisitos con los elementos de diseño, las implementaciones y las pruebas correspondientes en el proceso de desarrollo del <em>Software</em>. El objetivo es asegurar que cada requisito tenga una correspondencia directa con las actividades de desarrollo y validación, que se deben realizar.
     
         .bg-color-1.p-4(data-aos="fade-left")
           p.mb-0 Esta matriz generalmente se presenta en forma de una tabla, en la que se listan los requisitos a un lado y se relacionan con los diferentes componentes del proyecto (como casos de prueba, código fuente, documentos de diseño, etc.) en columnas.
@@ -259,7 +259,7 @@
                 img(src="@/assets/curso/tema3/25.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Transparencia y visibilidad
-              p Proporciona a todos los miembros del equipo, así como a los stakeholders, una visión clara de cómo se está avanzando con respecto a los requisitos. Esto fomenta una mejor comunicación y colaboración.
+              p Proporciona a todos los miembros del equipo, así como a los <em>stakeholders</em>, una visión clara de cómo se está avanzando con respecto a los requisitos. Esto fomenta una mejor comunicación y colaboración.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -285,10 +285,10 @@
       .col-lg-8
     
         AcordionA(tipo="b")
-          .div(titulo="Trazabilidad hacia adelante (Forward Traceability)")
+          .div(titulo="Trazabilidad hacia adelante (<em>Forward Traceability</em>)")
             p Este tipo de trazabilidad asegura que cada requisito se haya implementado y que cada parte del sistema se derive directamente de un requisito. Es decir, que cada funcionalidad desarrollada esté vinculada a un requisito específico (Genero Bocco et al., 2014).
     
-          .div(titulo="Trazabilidad hacia atrás (Backward Traceability)")
+          .div(titulo="Trazabilidad hacia atrás (<em>Backward Traceability</em>)")
             p Permite verificar que cada elemento del sistema, como el código o los documentos de diseño, esté asociado con un requisito original. Esto es útil para confirmar que no se han introducido elementos en el sistema que no correspondan con los requisitos iniciales (Zapata Jaramillo, 2006).
     
     .bg-full-width.bg-color-3
@@ -325,12 +325,12 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/27006" target="_blank" rel="noopener noreferrer") Parroquín, P. (2009). Identificación de competencias para el diseño de un modelo educativo en ingeniería de software: ( ed.). Universidad Autónoma de Ciudad Juárez. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/27006" target="_blank" rel="noopener noreferrer") Parroquín, P. (2009). Identificación de competencias para el diseño de un modelo educativo en ingeniería de <em>Software</em>: ( ed.). Universidad Autónoma de Ciudad Juárez. 
 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/live/ZxQNLDKaLNM?si=m18YV3I1dlWrbPAp" target="_blank" rel="noopener noreferrer") Ministerio TIC Colombia (2021, 28 de septiembre) Uso de herramientas o software libre para el análisis de vulnerabilidades - 28 Sep. [Video] YouTube  
+              a(href="https://www.youtube.com/live/ZxQNLDKaLNM?si=m18YV3I1dlWrbPAp" target="_blank" rel="noopener noreferrer") Ministerio TIC Colombia (2021, 28 de septiembre) Uso de herramientas o <em>Software</em> libre para el análisis de vulnerabilidades - 28 Sep. [Video] YouTube  
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
