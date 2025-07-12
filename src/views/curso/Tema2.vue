@@ -162,10 +162,10 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right
-                  p.mb-0 ●	Eje X. Esfuerzo (bajo a alto).
+                  p.mb-0 Eje X. Esfuerzo (bajo a alto).
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right
-                  p.mb-0 ●	Eje Y. Valor (bajo a alto).
+                  p.mb-0 Eje Y. Valor (bajo a alto).
               h5 Interpretación:
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -201,24 +201,24 @@
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema2/11.svg" alt="" style="width: 90px")
-              h5.text-centr Escuchar y entender los intereses
+              h5.text-center Escuchar y entender los intereses
               p.mb-0.text-center Antes de decidir, es fundamental entender por qué cada parte considera su requisito prioritario (Universidad Politécnica Salesiana, 2021). A veces, el trasfondo revela necesidades más profundas, que permiten encontrar soluciones creativas.
         
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema2/12.svg" alt="" style="width: 90px")
-              h5.text-centr Usar criterios objetivos
+              h5.text-center Usar criterios objetivos
               p.mb-0.text-center Basarse en criterios previamente establecidos (valor de negocio, urgencia, viabilidad técnica) disminuye el componente emocional en las discusiones y facilita la negociación.
         
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema2/13.svg" alt="" style="width: 90px")
-              h5.text-centr Facilitar el consenso
+              h5.text-center Facilitar el consenso
               p.mb-0.text-center El facilitador del proyecto debe promover una cultura de diálogo, donde todos los involucrados sientan que su opinión fue escuchada, aunque no siempre sea aceptada.
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema2/14.svg" alt="" style="width: 90px")
-              h5.text-centr Escalar conflictos cuando sea necesario
+              h5.text-center Escalar conflictos cuando sea necesario
               p.mb-0.text-center Si el conflicto persiste, se puede recurrir a la dirección del proyecto o al comité de stakeholders para que definan las prioridades estratégicas.
 
     .row.mb-5
